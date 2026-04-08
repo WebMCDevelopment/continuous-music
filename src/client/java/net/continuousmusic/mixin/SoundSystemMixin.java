@@ -1,4 +1,4 @@
-package b100.continuousmusic.mixin;
+package net.continuousmusic.mixin;
 
 import java.util.Map;
 import java.util.function.Consumer;
@@ -14,10 +14,10 @@ import com.llamalad7.mixinextras.injector.wrapoperation.Operation;
 import com.llamalad7.mixinextras.injector.wrapoperation.WrapOperation;
 import com.llamalad7.mixinextras.sugar.Local;
 
-import b100.continuousmusic.ContinuousMusicMod;
-import b100.continuousmusic.TickChannelThread;
-import b100.continuousmusic.access.SoundSystemAccess;
-import b100.continuousmusic.access.SourceAccess;
+import net.continuousmusic.ContinuousMusicMod;
+import net.continuousmusic.TickChannelThread;
+import net.continuousmusic.access.SoundSystemAccess;
+import net.continuousmusic.access.SourceAccess;
 import net.minecraft.client.option.GameOptions;
 import net.minecraft.client.sound.Channel;
 import net.minecraft.client.sound.SoundInstance;

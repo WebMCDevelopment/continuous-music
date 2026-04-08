@@ -1,4 +1,4 @@
-package b100.continuousmusic;
+package net.continuousmusic;
 
 import net.minecraft.client.sound.Channel;
 

@@ -1,4 +1,4 @@
-package b100.continuousmusic.mixin;
+package net.continuousmusic.mixin;
 
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

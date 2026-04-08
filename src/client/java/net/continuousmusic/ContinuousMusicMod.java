@@ -1,4 +1,4 @@
-package b100.continuousmusic;
+package net.continuousmusic;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -12,8 +12,8 @@ import java.util.Optional;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import b100.continuousmusic.access.MusicTrackerAccess;
-import b100.continuousmusic.access.SoundManagerAccess;
+import net.continuousmusic.access.MusicTrackerAccess;
+import net.continuousmusic.access.SoundManagerAccess;
 import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.sound.Channel;

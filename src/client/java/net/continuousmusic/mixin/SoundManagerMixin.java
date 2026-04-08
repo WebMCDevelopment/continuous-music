@@ -1,10 +1,10 @@
-package b100.continuousmusic.mixin;
+package net.continuousmusic.mixin;
 
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
 
-import b100.continuousmusic.access.SoundManagerAccess;
-import b100.continuousmusic.access.SoundSystemAccess;
+import net.continuousmusic.access.SoundManagerAccess;
+import net.continuousmusic.access.SoundSystemAccess;
 import net.minecraft.client.sound.SoundManager;
 import net.minecraft.client.sound.SoundSystem;
 

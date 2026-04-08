@@ -1,4 +1,4 @@
-package b100.continuousmusic.access;
+package net.continuousmusic.access;
 
 import net.minecraft.client.sound.SoundInstance;
 import net.minecraft.sound.MusicSound;

@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "b100.continuousmusic.mixin",
+	"package": "net.continuousmusic.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"client": [
 		"GameRendererMixin",

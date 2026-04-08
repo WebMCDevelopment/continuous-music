@@ -1,4 +1,4 @@
-package b100.continuousmusic.mixin;
+package net.continuousmusic.mixin;
 
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
@@ -6,8 +6,8 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
-import b100.continuousmusic.ContinuousMusicMod;
-import b100.continuousmusic.access.MusicTrackerAccess;
+import net.continuousmusic.ContinuousMusicMod;
+import net.continuousmusic.access.MusicTrackerAccess;
 import net.minecraft.client.sound.MusicTracker;
 import net.minecraft.client.sound.SoundInstance;
 import net.minecraft.sound.MusicSound;

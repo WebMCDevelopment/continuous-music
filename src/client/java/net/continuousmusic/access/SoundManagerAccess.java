@@ -1,4 +1,4 @@
-package b100.continuousmusic.access;
+package net.continuousmusic.access;
 
 public interface SoundManagerAccess {
 	
